@@ -1,4 +1,4 @@
-# Tobigs14 Seminar (20/07/22 ~ 20/09/23)
+# Tobigs14 Seminar (20/07/22 - 20/09/23)
 
 
 
