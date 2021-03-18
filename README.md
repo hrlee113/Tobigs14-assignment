@@ -3,7 +3,7 @@
 * 활동 그룹 : TOBIG'S
 * 일시 : 20/07/22 - 20/09/23
 
-### 커리큘럼
+### &#128197; 커리큘럼
 Week | Date | Topic
 :-: | :-: | :-: 
 Week1 | 07/22 | Data Preprocessing · EDA · Open Source and Git
