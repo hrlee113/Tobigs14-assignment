@@ -1,8 +1,8 @@
 # Tobigs14 Seminar (20/07/22 - 20/09/23)
 
+## 투빅스 14기 정규세션 과제 리스트
 
-
-
+## 커리큘럼
 Week | Date | Topic
 :-: | :-: | :-: 
 Week1 | 07/22 | Data Preprocessing · EDA · Open Source and Git
