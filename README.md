@@ -1,10 +1,10 @@
 # 투빅스 14기 정규세션 제출과제 모음
 
 * 활동 그룹 : TOBIG'S 
-  ```
-  투빅스 공식 GITHUB @tobigs-datamarket  
-  [투빅스 공식 홈페이지](http://www.datamarket.kr/)
-  ```
+  <pre>
+  <a href="https://github.com/tobigs-datamarket">Tobigs 공식 Github</a>
+  <a href="http://www.datamarket.kr/xe/">Tobigs 공식 홈페이지</a>
+  </pre>
 * 일시 : 20/07/22 - 20/09/23
 
 ### &#128197; 커리큘럼
